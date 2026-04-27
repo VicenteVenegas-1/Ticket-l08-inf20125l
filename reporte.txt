@@ -1,1 +1,1 @@
-Se cambia el codigo y se repara el calculo del promedio.
+Se cambia el codigo y se repara el calculo del promedio, ya que estaba mal hecho.
